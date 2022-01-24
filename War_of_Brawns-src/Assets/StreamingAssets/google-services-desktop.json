@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653676013681",
+    "firebase_url": "https://war-of-brawns.firebaseio.com",
+    "project_id": "war-of-brawns",
+    "storage_bucket": "war-of-brawns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653676013681:android:2a8c66fa3ef1126bcc13d0",
+        "android_client_info": {
+          "package_name": "edu.odu.cs.warofbrawns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653676013681-b1seram2lclhhu7um09uu77q1o08o70p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7xPnJHxBwVdxExEES6a6Pv5khJrbfN-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653676013681-b1seram2lclhhu7um09uu77q1o08o70p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
